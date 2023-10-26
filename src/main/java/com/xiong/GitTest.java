@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello 2222d22");
         System.out.println("hello 333");
         System.out.println(" hot-fix 写错了 ");
+        System.out.println(" hot-fix test！！ ");
     }
 }
