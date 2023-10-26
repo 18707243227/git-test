@@ -10,6 +10,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello 2222d22");
         System.out.println("hello 333");
-        System.out.println(" hot-fix  ");
+        System.out.println(" hot-fix 写错了 ");
     }
 }
